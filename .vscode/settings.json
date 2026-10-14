@@ -1,0 +1,80 @@
+// {
+//     "files.associations": {
+//         "istream": "cpp"
+//     }
+// }
+
+
+{
+    "configurations": [
+      {
+        "name": "Mac",
+        "includePath": [
+          "${workspaceFolder}",
+          "/usr/include",
+          "/usr/local/include"
+        ],
+        "defines": [],
+        "macFrameworkPath": [
+          "/System/Library/Frameworks",
+          "/Library/Frameworks"
+        ],
+        "compilerPath": "/usr/bin/clang++",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "macos-clang-x64"
+      }
+    ],
+    "version": 4,
+    "files.associations": {
+      "*.md": "bat",
+      "string": "cpp",
+      "array": "cpp",
+      "string_view": "cpp",
+      "vector": "cpp",
+      "fstream": "cpp",
+      "ios": "cpp",
+      "__bit_reference": "cpp",
+      "__hash_table": "cpp",
+      "__locale": "cpp",
+      "__node_handle": "cpp",
+      "__split_buffer": "cpp",
+      "__verbose_abort": "cpp",
+      "bitset": "cpp",
+      "cctype": "cpp",
+      "clocale": "cpp",
+      "cmath": "cpp",
+      "cstdarg": "cpp",
+      "cstdint": "cpp",
+      "cstdio": "cpp",
+      "cstdlib": "cpp",
+      "cstring": "cpp",
+      "ctime": "cpp",
+      "cwchar": "cpp",
+      "cwctype": "cpp",
+      "deque": "cpp",
+      "execution": "cpp",
+      "initializer_list": "cpp",
+      "iosfwd": "cpp",
+      "iostream": "cpp",
+      "istream": "cpp",
+      "limits": "cpp",
+      "locale": "cpp",
+      "mutex": "cpp",
+      "new": "cpp",
+      "optional": "cpp",
+      "print": "cpp",
+      "queue": "cpp",
+      "ratio": "cpp",
+      "stack": "cpp",
+      "stdexcept": "cpp",
+      "streambuf": "cpp",
+      "typeinfo": "cpp",
+      "unordered_map": "cpp",
+      "variant": "cpp",
+      "csignal": "cpp",
+      "algorithm": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "enabled"
+  }
+  
